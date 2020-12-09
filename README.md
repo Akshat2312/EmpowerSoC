@@ -3,8 +3,11 @@ We have built an open-source EDA tool, EmPowerSoC, that can be used for power es
 
 -------------------------------------------------------------------------------------------------
 -> Kindly go through the tutorial provided to familiarise yourself with the tool.
+
 -> You can check out the detailed documentation provided to know more about the tool and its working.
+
 -> A sample 180nm model parameters file is also included for reference.
+
    Note: If you want to use your own model parameters, kindly ensure the library name and model name are same as the one in sample model file provided.
    
 -------------------------------------------------------------------------------------------------
