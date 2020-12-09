@@ -1,4 +1,4 @@
-.lib cmos_models_emPowerSOC
+.lib cmos_models
 .MODEL nmos NMOS (LEVEL   = 49 hdif = 0.25e-6 acm = 3 
 +VERSION = 3.1            TNOM    = 27             TOX     = 4.2E-9
 +XJ      = 1E-7           NCH     = 2.3549E17      VTH0    = 0.3710619
