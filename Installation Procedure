@@ -3,7 +3,7 @@ Steps to follow:
 Step 1: Install the Qflow Tool Chain. The VSD team has provided a script to install Qflow and all its dependencies. Visit https://github.com/kunalg123/vsdflow
 Step 2: Download and install the EmPowerSoC debian package. 
         To install the package, Open terminal and change directory to the location where the package is downloaded and run the following command:
-        sudo gdebi <package_name>
+        sudo gdebi empowersoc-v1.0.deb
         Or, You can install the package using GUI installer.
 ------------------------------------------------------------------
 
