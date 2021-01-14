@@ -37,6 +37,7 @@ and integration within SoC is leading to designs that dissipate power in huge am
 and hence it has become essential to keep an eye at the amount of power dissipation
 while designing a SoC. This makes the EmpowerSoC an indispensable tool for the
 researchers who wish to put forward new low power SoC designs.
+
 -------------------------------------------------------------------------------------------------
 # Note:
 
