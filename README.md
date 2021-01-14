@@ -3,32 +3,27 @@ EmpowerSoC is an open-source EDA tool that can be used for power estimation of S
 
 Highlights - 
 
-1. Provides automated power estimation for both digital and analog blocks of the SoC.
-This open-source tool can be used by researchers to calculate the most important
+1. It can be used by researchers to calculate the most important
 aspect of designing a SoC – Power Dissipation.
 EmpowerSoC brings together the features of various open-source tools along with an
 additional feature of estimating power dissipation. It saves a lot of effort and time and
 its user-friendliness makes it an indispensable tool for the researchers.
 
-2. The flow is technology independent. The tool is built in accordance with the ever-
-changing technology. As technology advances, the devices are scaled to a smaller
-dimension and this tool accommodates the changes automatically.
-
-3. Power estimation is done by extracting transistor level post layout netlists of both
+2. Power estimation is done by extracting transistor level post layout netlists of both
 digital and analog blocks on an automated basis.
 
-4. In EmpowerSoC, the user has the flexibility to calculate both active and standby
+3. In EmpowerSoC, the user has the flexibility to calculate both active and standby
 power dissipation. Standby power (leaking power) is the power which is dissipated
 from the SoC while it is not active i.e. in sleep/standby mode. It is a major contributor
 to power dissipation and becomes an essential design parameter while designing a
 SoC. Active power, in contrast to Standby Power, is the power which is dissipated
 while the SoC is active i.e. while performing a particular task.
 
-5. EmpowerSoC comes with an intuitive and user-friendly GUI which is easy to use
+4. EmpowerSoC comes with an intuitive and user-friendly GUI which is easy to use
 and also allows the user to open multiple instances and show the results
 simultaneously.
 
-6. EmpowerSoC is backed by comprehensive documentation which is easy to
+5. EmpowerSoC is backed by comprehensive documentation which is easy to
 understand and self-explanatory. The Installation Procedure and Tutorials have been
 presented in a lucid manner and guides the users how to start using the tool.
 
