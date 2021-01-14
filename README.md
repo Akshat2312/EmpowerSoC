@@ -24,12 +24,6 @@ to power dissipation and becomes an essential design parameter while designing a
 SoC. Active power, in contrast to Standby Power, is the power which is dissipated
 while the SoC is active i.e. while performing a particular task.
 
-The emerging trend in applications for the ever increasing functionality, performance
-and integration within SoC is leading to designs that dissipate power in huge amounts
-and hence it has become essential to keep an eye at the amount of power dissipation
-while designing a SoC. This makes the EmpowerSoC an indispensable tool for the
-researchers who wish to put forward new low power SoC designs.
-
 5. EmpowerSoC comes with an intuitive and user-friendly GUI which is easy to use
 and also allows the user to open multiple instances and show the results
 simultaneously.
@@ -38,6 +32,11 @@ simultaneously.
 understand and self-explanatory. The Installation Procedure and Tutorials have been
 presented in a lucid manner and guides the users how to start using the tool.
 
+The emerging trend in applications for the ever increasing functionality, performance
+and integration within SoC is leading to designs that dissipate power in huge amounts
+and hence it has become essential to keep an eye at the amount of power dissipation
+while designing a SoC. This makes the EmpowerSoC an indispensable tool for the
+researchers who wish to put forward new low power SoC designs.
 -------------------------------------------------------------------------------------------------
 # Note:
 
