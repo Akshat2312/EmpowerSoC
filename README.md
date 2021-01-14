@@ -39,7 +39,7 @@ while designing a SoC. This makes the EmpowerSoC an indispensable tool for the
 researchers who wish to put forward new low power SoC designs.
 
 -------------------------------------------------------------------------------------------------
-# Note:
+# Note
 
 -> Kindly go through the tutorial provided to familiarise yourself with the tool.
 
