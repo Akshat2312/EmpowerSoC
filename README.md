@@ -9,8 +9,7 @@ EmpowerSoC brings together the features of various open-source tools along with 
 additional feature of estimating power dissipation. It saves a lot of effort and time and
 its user-friendliness makes it an indispensable tool for the researchers.
 
-2. Power estimation is done by extracting transistor level post layout netlists of both
-digital and analog blocks on an automated basis.
+2. Power estimation is done by extracting transistor level netlists of the building blocks on an automated basis.
 
 3. In EmpowerSoC, the user has the flexibility to calculate both active and standby
 power dissipation. Standby power (leaking power) is the power which is dissipated
