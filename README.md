@@ -53,4 +53,4 @@ researchers who wish to put forward new low power SoC designs.
 
 -------------------------------------------------------------------------------------------------
 # Acknowledgements
-1) Kunal Gosh, Founder at VLSI System Design - https://www.vlsisystemdesign.com/
+1) Kunal Ghosh, Founder at VLSI System Design - https://www.vlsisystemdesign.com/
