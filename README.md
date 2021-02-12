@@ -12,7 +12,7 @@ its user-friendliness makes it an indispensable tool for the researchers.
 2. Power estimation is done by extracting transistor level netlists of the building blocks on an automated basis.
 
 3. In EmpowerSoC, the user has the flexibility to calculate both active and standby
-power dissipation. Standby power (leaking power) is the power which is dissipated
+power dissipation. Standby power (leakage power) is the power which is dissipated
 from the SoC while it is not active i.e. in sleep/standby mode. It is a major contributor
 to power dissipation and becomes an essential design parameter while designing a
 SoC. Active power, in contrast to Standby Power, is the power which is dissipated
