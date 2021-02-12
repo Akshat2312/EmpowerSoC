@@ -44,12 +44,16 @@ researchers who wish to put forward new low power SoC designs.
 -> If you want to use your own model parameters, kindly ensure the library name and model name are same as the one in sample model file provided.
    
 -------------------------------------------------------------------------------------------------
-# Contact Information 
-1) Akshat Jain, B.E. ECE NSUT, Delhi - jakshat2312@gmail.com
-2) Nimesh Shahdadpuri, B.E. ECE NSUT, Delhi - shahdadpuri.nimesh@gmail.com
-3) Naveen Dugar, B.E. ECE NSUT, Delhi - naveen.dugar1010@gmail.com
-4) Sagar Yadav, M.Tech NSUT, Delhi - 13sagaryadav@gmail.com
-5) Dr. Kunwar Singh, Assistant Professor, NSUT Delhi - kunwar.nsut@gmail.com
+# Team Members 
+1) Akshat Jain, Student, B.E. ECE NSUT, Delhi - jakshat2312@gmail.com
+2) Nimesh Shahdadpuri, Student, B.E. ECE NSUT, Delhi - shahdadpuri.nimesh@gmail.com
+3) Naveen Dugar, Student, B.E. ECE NSUT, Delhi - naveen.dugar1010@gmail.com
+4) Sagar Yadav, Student, M.Tech (Embedded Systems & VLSI) NSUT, Delhi - 13sagaryadav@gmail.com
+
+-------------------------------------------------------------------------------------------------
+# Mentor
+1) Dr. Kunwar Singh, Assistant Professor,Department of ECE, Netaji Subhas University Of Technology, New Delhi 
+   Email - kunwar.singh@nsut.ac.in
 
 -------------------------------------------------------------------------------------------------
 # Acknowledgements
