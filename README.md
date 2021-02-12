@@ -52,7 +52,7 @@ researchers who wish to put forward new low power SoC designs.
 
 -------------------------------------------------------------------------------------------------
 # Mentor
-1) Dr. Kunwar Singh, Assistant Professor,Department of ECE, Netaji Subhas University Of Technology, New Delhi 
+1) Dr. Kunwar Singh, Assistant Professor, Department of ECE, Netaji Subhas University Of Technology, New Delhi 
    
    Email - kunwar.singh@nsut.ac.in
 
