@@ -1,4 +1,4 @@
-# EmpowerSoC-Tool ( Beta Version ) 
+# EmpowerSoC ( Beta Version ) 
 EmpowerSoC is an open-source EDA tool that can be used for power estimation of SoC. It has been developed alongside the existing QFlow open-source tool chain. The emerging trend in applications for the ever increasing functionality, performance and integration within SoC is leading to designs that dissipate power in huge amounts and hence it has become essential to keep an eye at the amount of power dissipation while designing a SoC. This makes the EmpowerSoC a useful tool for the researchers who wish to put forward new low power designs.
 
 Highlights - 
