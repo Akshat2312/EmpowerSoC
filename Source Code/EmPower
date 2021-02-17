@@ -1,0 +1,28 @@
+#!/bin/bash
+
+scriptLoc=/usr/lib/EmpowerSoc  # Scripts Location
+
+if [ ! -d "./EmpowerSOC" ]     # Create EmpowerSoC directory if not present
+then
+    mkdir ./EmpowerSOC 
+fi
+
+if [ ! -d "./EmpowerSOC/sim_parameters" ] # Create EmpowerSoC/sim_parameters directory if not present
+then
+    mkdir ./EmpowerSOC/sim_parameters 
+fi
+
+if [ ! -d "./EmpowerSOC/power" ] # Create EmpowerSoC/power directory if not present
+then
+    mkdir ./EmpowerSOC/power 
+fi
+
+# Generating spice netlist of subcomponents inside EmpowerSoC/spice_netlist
+
+cd ./layout
+perl $scriptLoc"/get_spice_netlist.pl" &> ../EmpowerSOC/spice_netlist_generate.log 
+cd ..
+mv ./EmpowerSOC/spice_netlist_generate.log ./EmpowerSOC/spice_netlist/spice_netlist_generate.log
+
+# call python script gui
+python3 $scriptLoc"/gui.py"
